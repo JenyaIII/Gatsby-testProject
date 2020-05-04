@@ -6,9 +6,7 @@ const AboutPage = () => {
     <Layout>
       <div>
         <h1>About Us</h1>
-        <p>
-          adfkiasigbnafigjbnakfgbnafbgnkafbgkafbgkadbfgkjabfgkabfgkjabnfgkjanfgkjnafgkjnafg
-        </p>
+        <p>kek</p>
       </div>
     </Layout>
   )
